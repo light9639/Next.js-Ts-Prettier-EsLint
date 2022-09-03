@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/70432453/176340481-60fe2e7c-4c9a-43c5-a1f8-c8886c3461a6.png)
 
-## **📋 Some Features**
+## **📋 사용가능한 기능들**
 
 - Alias Import
 
