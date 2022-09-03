@@ -1,4 +1,4 @@
-<h1 align='center'>🔥 Next.js + TypeScript + Eslint + Prettier Template</h1>
+<h1>🔥 Next.js + TypeScript + Eslint + Prettier Template</h1>
 
 :octocat: Next.js, TypeScript, Eslint, Prettier를 이용하여 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다.
 
