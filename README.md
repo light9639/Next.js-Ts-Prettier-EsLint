@@ -25,7 +25,7 @@
 1. git clone을 이용하여 다운받기
 
 ```
-git clone https://github.com/igdev116/next-ts-eslint-prettier.git
+git clone https://github.com/light9639/Next.js-Ts-Prettier-EsLint.git
 ```
 
 2. yarn을 통한 설치
