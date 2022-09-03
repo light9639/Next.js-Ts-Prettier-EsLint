@@ -1,12 +1,12 @@
 <h1 align='center'>🔥 Next.js + TypeScript + Eslint + Prettier Template</h1>
 
-Next.js, TypeScript, Eslint, Prettier를 이용하여 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다.
+:octocat: Next.js, TypeScript, Eslint, Prettier를 이용하여 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다.
 
-#### **Vercel Deploy: https://next-ts-eslint-prettier-tau.vercel.app**
+#### **:rocket: Vercel Deploy: https://next-ts-eslint-prettier-tau.vercel.app**
 
 ![image](https://user-images.githubusercontent.com/70432453/176340481-60fe2e7c-4c9a-43c5-a1f8-c8886c3461a6.png)
 
-## **Some Features 📋**
+## **📋 Some Features**
 
 - Alias Import
 
@@ -40,8 +40,10 @@ yarn install
 yarn dev
 ```
 
-4. If you using git, delete the existing folder .git after cloning (open `git bash` or other terminal)
+4. Git을 이용하려면 다운받은 폴더의 git을 삭제하시고 작업을 시작하시면 됩니다. (`git bash`를 사용하시거나 터미널을 오픈한 후 밑에 식을 치시면 됩니다.)
 
 ```
 rm -rf .git
 ```
+## **:paperclip: 출처**
+- 출처 : https://github.com/igdev116/next-ts-eslint-prettier
