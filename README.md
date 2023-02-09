@@ -1,11 +1,11 @@
-# :zap: Next.js + TypeScript + Eslint + Prettier Template
+# 🎫 Next.js + TypeScript + Eslint + Prettier Template
 
-:octocat: Next.js, TypeScript, Eslint, Prettier를 이용하여 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다.
+:octocat: 바로 가기 : https://light9639.github.io/Next.js-Ts-Prettier-EsLint/
 
-#### **:rocket: Vercel Deploy: https://next-ts-eslint-prettier-tau.vercel.app**
 
 ![image](https://user-images.githubusercontent.com/70432453/176340481-60fe2e7c-4c9a-43c5-a1f8-c8886c3461a6.png)
 
+:sparkles: 🎫 Next.js, TypeScript, Eslint, Prettier를 이용하여 새로운 프로젝트를 개발하려고 할때, 그냥 다운 받아서 사용하시면 됩니다. :sparkles:
 ## **📋 사용가능한 기능들**
 
 ### :zap: Alias Import

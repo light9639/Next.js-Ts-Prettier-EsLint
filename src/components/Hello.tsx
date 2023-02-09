@@ -1,4 +1,6 @@
-const Hello = () => {
+import type { NextPage } from 'next';
+
+const Hello: NextPage = () => {
   return (
     <div
       style={{
@@ -44,7 +46,7 @@ const Hello = () => {
         <a
           style={{ color: '#F24C4C' }}
           target='_blank'
-          href='https://github.com/igdev116/next-ts-eslint-prettier'
+          href='https://github.com/light9639/Next.js-Ts-Prettier-EsLint'
           rel='noreferrer'
         >
           Github
